@@ -6,7 +6,7 @@ Welcome to my 100 Days of Code project challenge! In this personal coding journe
 
 - **Duration:** 100 Days
 - **Start Date:** 23-02-2024
-- **End Date:** [03-06-2024]
+- **End Date:** 03-06-2024
 
 ## Motivation
 
