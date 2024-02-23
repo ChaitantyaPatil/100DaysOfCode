@@ -16,7 +16,10 @@ The primary goal of this challenge is to improve my coding abilities, explore va
 
 Below is the list of projects completed during this challenge. Click on each project to explore the code and see the project in action.
 
-1. [Project 1: Band Name Generator]
+1. Project 1: Band Name Generator
+2. Project 2: Tip Calculator
+3. Project 3: Treasure Island
+4. Project 4: Rock Paper Scissors
 
 
 ## Progress
