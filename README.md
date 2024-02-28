@@ -20,6 +20,7 @@ Below is the list of projects completed during this challenge. Click on each pro
 2. Project 2: Tip Calculator
 3. Project 3: Treasure Island
 4. Project 4: Rock Paper Scissors
+5.
 
 
 ## Progress
